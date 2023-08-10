@@ -1,1 +1,1 @@
-# binary-search-tree
+# Computer science projecy: Binary Search Tree
